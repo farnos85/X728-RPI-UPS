@@ -1,0 +1,10 @@
+{
+    "domain": "x728ups",
+    "name": "X728 Sensors",
+    "documentation": "",
+    "dependencies": [],
+    "codeowners": ["@farnos85"],
+    "requirements": ["smbus2"],
+    "iot_class": "cloud_polling",
+    "version": "0.1.0"
+}
