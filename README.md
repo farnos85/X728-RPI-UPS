@@ -2,4 +2,4 @@
 
 X728 RPI UPS integration for Home Assistant
 
-  x728ups:
+	- platform: x728ups
